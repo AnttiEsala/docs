@@ -2,4 +2,4 @@
 
 ## alaotsikko
 
-1. (Ydinvoima.md)
+1. [I'm a relative reference to a repository file](Ydinvoima.md)
